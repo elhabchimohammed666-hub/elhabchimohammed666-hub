@@ -77,8 +77,8 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
-| [**Nom du projet 1**](https://github.com/elhabchimohammed666-hub/projet1) | Une phrase qui explique ce qu'il fait | React, Node.js |
-| [**Nom du projet 2**](https://github.com/elhabchimohammed666-hub/projet2) | Une phrase qui explique ce qu'il fait | Laravel, MySQL |
+| [**E-commerce_app**](https://github.com/elhabchimohammed666-hub/projet1) | application pour les cammande d'achat et vente | React, Node.js |
+| [**Location-voiture_app**](https://github.com/elhabchimohammed666-hub/projet2) | application pour les reservation| react, node js,mongoDb |
 
 ---
 
