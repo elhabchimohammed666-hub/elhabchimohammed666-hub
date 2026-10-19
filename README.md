@@ -1,108 +1,199 @@
-<h1 align="center">Salut, moi c'est Mohammed 👋</h1>
-<h3 align="center">Développeur Full-Stack · Applications web réactives, performantes et évolutives</h3>
+<!-- ===================== HEADER ANIMÉ ===================== -->
+<div align="center">
 
-<p align="center">
-  <a href="mailto:elhabchimohammed666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://mastodon.social/@TON_PSEUDO"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
-  <a href="https://www.linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Elhabchi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack&descSize=20&descAlignY=58" alt="En-tête"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Applications+web+r%C3%A9actives+et+performantes;React+%C2%B7+Node.js+%C2%B7+PHP%2FLaravel;Je+transforme+des+id%C3%A9es+en+produits+r%C3%A9els;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="mailto:elhabchimohammed666@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://elhabchimohammed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+<a href="https://github.com/elhabchimohammed666-hub"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://mastodon.social/@TON_PSEUDO"><img src="https://img.shields.io/badge/Mastodon-0F172A?style=for-the-badge&logo=mastodon&logoColor=6364FF" alt="Mastodon"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=elhabchimohammed666-hub&label=Visiteurs&color=0e75b6&style=flat-square" alt="Compteur de visiteurs"/>
+
+</div>
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 À propos de moi
 
-| | |
-|---|---|
-| 🔭 **En ce moment** | Projets full-stack avec React, Node.js et PHP/Laravel |
-| 🌱 **J'apprends** | DevOps, administration Linux, méthodes Agile/Scrum |
-| 💬 **Parlons de** | Développement web, bases de données, intégration d'API |
-| 📫 **Contact** | elhabchimohammed666@gmail.com |
-| **Myportfolio** | https://elhabchimohammed.netlify.app/ |
-
+<table>
+  <tr>
+    <td>🔭 <b>En ce moment</b></td>
+    <td>Projets full-stack avec React, Node.js et PHP/Laravel</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>J'apprends</b></td>
+    <td>DevOps, administration Linux, méthodes Agile/Scrum</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Parlons de</b></td>
+    <td>Développement web, bases de données, intégration d'API</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Portfolio</b></td>
+    <td><a href="https://elhabchimohammed.netlify.app/">elhabchimohammed.netlify.app</a></td>
+  </tr>
+  <tr>
+    <td>📫 <b>Contact</b></td>
+    <td><a href="mailto:elhabchimohammed666@gmail.com">elhabchimohammed666@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Stack technique
 
-**Langages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Langages
 
-**Frontend**
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+### Frontend
 
-**Backend**
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js"/><br/><sub><b>Vue.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/><br/><sub><b>Vite</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js"/><br/><sub><b>Three.js</b></sub></td>
+  </tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+### Backend
 
-**Bases de données**
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/><sub><b>Express</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/><br/><sub><b>Laravel</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/><br/><sub><b>RabbitMQ</b></sub></td>
+  </tr>
+</table>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+### Bases de données
 
-**DevOps & outils**
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+  </tr>
+</table>
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=trello&logoColor=white)
+### DevOps & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/><br/><sub><b>Nginx</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache"/><br/><sub><b>Apache</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
+
+### Outils
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira"/><br/><sub><b>Jira</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ---
 
 ## 🚀 Projets en vedette
 
+
+
 | Projet | Description | Technologies |
 |---|---|---|
-| [**E-commerce_app**](https://github.com/elhabchimohammed666-hub/projet1) | application pour les cammande d'achat et vente | React, Node.js |
-| [**Location-voiture_app**](https://github.com/elhabchimohammed666-hub/projet2) | application pour les reservation| react, node js,mongoDb |
+| 🛒 [**E-commerce_app**](https://github.com/elhabchimohammed666-hub/E-commerce_app) | Application de gestion des commandes d'achat et de vente | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) |
+| 🚗 [**Location-voiture_app**](https://github.com/elhabchimohammed666-hub/Location-voiture_app) | Application de réservation de voitures de location | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=elhabchimohammed666-hub&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=elhabchimohammed666-hub&theme=dark&hide_border=true&layout=compact" alt="Langages les plus utilisés"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=elhabchimohammed666-hub&theme=dark&hide_border=true" alt="Streak GitHub"/>
-</p>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=elhabchimohammed666-hub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Stats GitHub"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=elhabchimohammed666-hub&theme=tokyonight&hide_border=true&layout=compact" alt="Langages les plus utilisés"/>
 
-## 🏆 Trophées
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elhabchimohammed666-hub&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophées GitHub"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=elhabchimohammed666-hub&theme=tokyonight&hide_border=true" alt="Streak GitHub"/>
+
+</div>
+
+### 📈 Activité
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/elhabchimohammed666-hub" alt="Contributions GitHub" width="90%"/>
+</div>
+
+---
+
+## 🎯 En bref
+
+<div align="center">
+
+![Full-Stack](https://img.shields.io/badge/Profil-Full--Stack-38BDF8?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-React%20%C2%B7%20Node.js%20%C2%B7%20Laravel-0F172A?style=for-the-badge)
+![Apprentissage](https://img.shields.io/badge/Apprentissage-DevOps%20%26%20Linux-6366F1?style=for-the-badge)
+![Disponible](https://img.shields.io/badge/Disponible-Freelance%20%26%20Collaboration-22C55E?style=for-the-badge)
+
+</div>
+
+---
 
 ## ✍️ Citation du jour
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citation aléatoire"/>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="مقولة عشوائية"/>
+</div>
+
+
+
+<div align="center">
+
+### 🤝 Travaillons ensemble !
+*Un projet en tête ? Une collaboration ? Écris-moi, je réponds rapidement.*
+
+<a href="mailto:elhabchimohammed666@gmail.com"><img src="https://img.shields.io/badge/Me_contacter-38BDF8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Me contacter"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Pied de page" width="100%"/>
