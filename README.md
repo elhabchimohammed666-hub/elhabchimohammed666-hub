@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>🌐 <b>Portfolio</b></td>
-    <td><a href="elhabchi-mohammed.netlify.app/">elhabchimohammed.netlify.app</a></td>
+  <td><a href="https://elhabchimohammed.netlify.app/">elhabchimohammed.netlify.app</a></td>
   </tr>
   <tr>
     <td>📫 <b>Contact</b></td>
