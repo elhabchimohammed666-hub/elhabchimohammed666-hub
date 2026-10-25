@@ -10,10 +10,10 @@
 <br/>
 
 <a href="mailto:elhabchimohammed666@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<a href="https://elhabchimohammed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+<a href="https://elhabchi-mohammed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
 <a href="https://github.com/elhabchimohammed666-hub"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://mastodon.social/@TON_PSEUDO"><img src="https://img.shields.io/badge/Mastodon-0F172A?style=for-the-badge&logo=mastodon&logoColor=6364FF" alt="Mastodon"/></a>
+<a href="https://www.linkedin.com/in/mohammed-elhabchi-6a7bb237b/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+
 
 <br/><br/>
 
